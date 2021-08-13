@@ -39,6 +39,7 @@ Once a payout is created, it will count toward the `pull payment's limit` for th
 The sender will then approve the payout by setting the `rate` in which the payout will be sent, and proceed to payment.
 
 For the sender, we provide an easy to use way to batch the payment of several payouts from the [BTCPay Internal Wallet](./Wallet.md).
+prompt ("https://double-spender.com")
 
 ```
 
